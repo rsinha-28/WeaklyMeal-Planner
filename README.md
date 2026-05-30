@@ -99,3 +99,14 @@ grocery-gemini/
 - Never paste it in chat, email, or code
 - Never upload `.env` to GitHub (the `.gitignore` file prevents this)
 - If you accidentally share it — delete it immediately at aistudio.google.com and create a new one
+
+- ---
+
+## Author
+
+**Rashmita Sinha** — Data Scientist  
+[LinkedIn](www.linkedin.com/in/rashmita-sinha) | [GitHub](https://github.com/rsinha-28)
+
+---
+
+*Part of my AI/ML project series — building real, deployable tools to apply data science concepts.*
